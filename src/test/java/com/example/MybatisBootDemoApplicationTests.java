@@ -14,5 +14,5 @@ public class MybatisBootDemoApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
+	pubic void add(){}
 }
