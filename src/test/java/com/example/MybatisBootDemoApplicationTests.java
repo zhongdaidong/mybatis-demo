@@ -16,5 +16,5 @@ public class MybatisBootDemoApplicationTests {
 	}
 	
 	//fdsalfd
-
+	pubic void add(){}
 }
